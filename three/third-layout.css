@@ -1,0 +1,72 @@
+body{
+	background: lightgrey;
+}
+#parentDiv {
+  width: 600px;
+  background: white;
+  border: 1px solid black;
+  height: 600px;
+  padding: 1px;
+  margin-top: 30px;
+  margin-left: 380px;
+}
+#childDivOne{
+  background: #8B008B;
+  height: 70px;
+}
+#childDivTwo{
+  background: #F5F5F5;
+  height: 530px;
+}
+#grandChildOne{
+  background: red;
+  height: 530px;
+  width: 400px;
+  margin-right: 100px;
+  margin-left: 100px;
+}
+#Optional{
+  height: 50px;
+}
+#One{
+ background: blue;
+ width: 300px;
+ height: 120px;
+ margin-right: 50px;
+ margin-left: 50px;
+}
+#Two{
+ background: blue;
+ width: 300px;
+ height: 120px;
+ margin-top: 25px;
+ margin-bottom: 25px;
+ margin-right: 50px;
+ margin-left: 50px;
+}
+#Three{
+ background: blue;
+ width: 300px;
+ height: 120px;
+ margin-bottom: 50px;
+ margin-right: 50px;
+ margin-left: 50px;
+}
+#One1{
+	background: yellow;
+	margin-left: 15px;
+	height: 60px;
+	width: 80px;
+}
+#One2{
+	background: green;
+	width: 180px;
+	margin-right: 10px;
+	height: 90px;
+	margin-top: -62px;
+	float: right;
+}
+#SubOne1{
+  height: 10px;
+  width: 300px;
+}
