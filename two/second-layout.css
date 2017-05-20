@@ -1,0 +1,43 @@
+body {
+  background: lightgrey;
+}
+
+#parentDiv {
+  width: 600px;
+  background: white;
+  border: 1px solid black;
+  height: 600px;
+  padding: 1px;
+  margin-top: 30px;
+  margin-left: 380px;
+}
+
+#childDivOne {
+  background: red;
+  height: 85px;
+}
+
+#childDivTwo {
+  background: #7C0BA5;
+  height: 440px;
+  width: 600px;
+}
+
+#ONE {
+  background: yellow;
+  width: 200px;
+  height: 440px;
+  float: right;
+}
+
+#TWO {
+  background: blue;
+  width: 200px;
+  height: 440px;
+  float: left;
+}
+
+#childDivFive {
+  background: green;
+  height: 75px;
+}
